@@ -1,18 +1,20 @@
 # Im_Bee
 My Introduction Repository
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨
-   INTRODUCTION
-✨✨✨✨✨✨✨✨✨✨✨✨✨
 ![AMBee](https://github.com/Hammad-Khan-aka-Ansar-Malik/Im_Bee/assets/59333482/a0d6e49d-f249-46e8-88f1-80446b8b005a)
 
-            🌟✧✦✧🌟 Introduction 🌟✧✦✧🌟
+                                                🌟✧✦✧🌟 Introduction 🌟✧✦✧🌟
 📜 **Name**: [Hammad Khan aka A_M_Bee]
+
 🏢 **Occupation**: [Mechatronics Engineer, Machine Learning and Artificial Intelligence Developer with Full Stack Dev Knowledge]
+
 📆 **Date of Birth**: [15th December]
+
 📍 **Location**: [Karachi, Pakistan]
+
 📧 **Contact**: [hsekhanofficial@gmail.com]
+
 🌐 **Website**: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
+
 📱 **LinkedIn**: [[Your LinkedIn Profile](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)]
 
 📖 **About Me**
@@ -25,28 +27,31 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 💡 **Areas of Expertise**
 
-- [List your key areas of expertise]
-- [Another area of expertise]
-- [And one more...]
+- Mechatronics Engineer
+- Discord Bot Developer
+- Machine Learning and Artificial Intelligent Bot Developer
+- Energy System Specialist
 
 🌱 **Current Endeavors**
 
-- [Describe what you're currently working on or learning]
-- [Another project or goal]
-- [And another...]
+- Working on a Solar Energy Project to get maximum energy using Omni Directional Solar Tracker
+- Discord Bot Development to give IoT features and Home Automation using friendly UI
+- Working with PIA as an Internee to learn how Commercial and Military Aircrafts are manufactured and deployed
 
 🌟 **Philosophy**
 
-[Share a meaningful quote or a personal philosophy that reflects your approach to life or work.]
+[Life's Meaning is to Find your Ideal Self and Life's Purpose is to become Your Ideal Self]
 
 🌐 **Connect With Me**
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email Address]
-- Website: [Your Website, if any]
+- LinkedIn: [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)
+- Email: hsekhanofficial@gmail.com
+- Website: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
+- Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)
+- Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09)
+- Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)
 
 📣 **Let's Connect**
 
-[Encourage readers to connect with you, collaborate, or learn more about your work.]
+And create a sustainable future
 
-Feel free to personalize this template with your information and any additional details you'd like to include. It's designed to provide a formal and aesthetic structure for your introduction.
