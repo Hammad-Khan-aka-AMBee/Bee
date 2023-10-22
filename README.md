@@ -48,14 +48,12 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 🌐 **Connect With Me**
 
-- LinkedIn: [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan) [https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/any_text-you_like-blue)
-
-- Email: hsekhanofficial@gmail.com
+- LinkedIn: [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)     ![Static Badge](https://img.shields.io/badge/LinkedIn-hammad--khan--bin--nadir--khan-darkblue)
+- Email: hsekhanofficial@gmail.com    ![Static Badge](https://img.shields.io/badge/Email-hsekhanofficial%40gmail.com-red)
 - Website: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
-- Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)
-- Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09) 
-
-- Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)
+- Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)    ![Static Badge](https://img.shields.io/badge/Instagram-the__hot__man__bee%20-magenta)
+- Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09)   ![Static Badge](https://img.shields.io/badge/Twitter/X-A__M__Bee%20-blue)
+- Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)    ![Static Badge](https://img.shields.io/badge/Discord-the__hot__man__bee%20-lightblue)
 
 📣 **Let's Connect**
 
