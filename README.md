@@ -131,4 +131,6 @@ And create a sustainable future
 
 <!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Khan-aka-Ansar-Malik&show_icons=true)-->
 
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee&theme=cobalt&icon=cake&time=true&response=true&border=true"/></a>
+<!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee&theme=cobalt&icon=cake&time=true&response=true&border=true"/></a>
+
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee"/></a>-->
