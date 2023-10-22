@@ -7,7 +7,7 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 </div>
 
 <div id="badges" align="center">
-  <a href="https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan">
+  <a href="https://pk.linkedin.com/in/the-hot-man-bee">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -110,7 +110,7 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 🌐 **Connect With Me**
 
-- LinkedIn : [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)
+- LinkedIn : [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/the-hot-man-bee)
 -   ![Static Badge](https://img.shields.io/badge/LinkedIn-hammad--khan--bin--nadir--khan-darkblue)
 - Email: hsekhanofficial@gmail.com
 -   ![Static Badge](https://img.shields.io/badge/Email-hsekhanofficial%40gmail.com-red)
