@@ -43,6 +43,11 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 
 <!--![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)-->
 
+[![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg)
+
+<div style="width: 100%;">
+  <img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/intro.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 
 # 📖 **About Me**
