@@ -18,8 +18,12 @@ My Introduction Repository
 
 📱 **LinkedIn**: [[Your LinkedIn Profile](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)]
 
-![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)
+<!--![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)-->
 
+
+<div align="center">
+  <img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88" width="600" height="200"/>
+</div>
 
 
 📖 **About Me**
