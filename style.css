@@ -1,0 +1,12 @@
+body{
+  margin  : 0;
+  height : 100vh;
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  color : white;
+  background : hsla(339,100%, 55%, 1);
+  background : linear-gradient(90deg, hsla(339,100%,55%,1)0%, hsla(197,100%,64%,1) 100%);
+  }
+  h1,
+  h2{margin : 0;}
