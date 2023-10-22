@@ -33,7 +33,7 @@
           width: 100%;
           height: 300px;
 
-          display: flex;
+          display: inline-block;
           justify-content: center;
           align-items: center;
           color: white;
@@ -58,19 +58,27 @@
         }
       </style>
 
+      
+
+
       <div class="container">
-        <h1>Hi there, my name HK <div class="hi">👋</div></h1>
-        <p>📜 Name: [Hammad Khan aka A_M_Bee]
+        
+        <h1> the-hot-man-bee <div class="hi">👋</div> </h1>
+        
+        
+          
+ 📜 Name: [Hammad Khan aka A_M_Bee]
 
-🏢 Occupation: [Mechatronics Engineer, Machine Learning and Artificial Intelligence Developer with Full Stack Dev Knowledge]
+ 🏢 Occupation: [Mechatronics Engineer, Machine Learning and Artificial Intelligence Developer with Full Stack Dev Knowledge]
 
-📆 Date of Birth: [15th December]
+ 📆 Date of Birth: [15th December]
 
-📍 Location: [Karachi, Pakistan]
+ 📍 Location: [Karachi, Pakistan]
 
-📧 Contact: [hsekhanofficial@gmail.com]
+ 📧 Contact: [hsekhanofficial@gmail.com]
 
-🌐 Website: Coming Soon...</p>
+ 🌐 Website: Coming Soon...
+        
       </div>
     </div>
   </foreignObject>
