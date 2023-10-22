@@ -101,3 +101,5 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 And create a sustainable future
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Khan-aka-Ansar-Malik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
