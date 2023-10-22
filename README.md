@@ -112,8 +112,8 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 🌐 **Connect With Me**
 
-- LinkedIn : [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/the-hot-man-bee)
--   ![Static Badge](https://img.shields.io/badge/LinkedIn-hammad--khan--bin--nadir--khan-darkblue)
+- LinkedIn : [the-hot-man-bee](https://pk.linkedin.com/in/the-hot-man-bee)
+-   ![Static Badge](https://img.shields.io/badge/LinkedIn-the--hot--man--bee-darkblue)
 - Email: hsekhanofficial@gmail.com
 -   ![Static Badge](https://img.shields.io/badge/Email-hsekhanofficial%40gmail.com-red)
 - Website: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
