@@ -27,15 +27,12 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 
    
                                                
+<div align="center"><img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/Intro.svg" style="width: 60%; height: 100%;" position="relative" alt="Click to see the source" ></div>
 
 
 <!--![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)-->
-
 <!--[![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg)-->
-
 <!--[![Animated hello](Intro.svg)](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/Intro.svg)-->
-<div><img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/Intro.svg" style="width: 50%;" alt="Click to see the source" align="center"></div>
-
 <!--<div style="width: 50%;"><img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/intro.svg" style="width: 100%;" alt="Click to see the source" align="center"></div>-->
 
 
@@ -152,4 +149,4 @@ And create a sustainable future
 
 📧 **Contact**: [hsekhanofficial@gmail.com]
 
-🌐 **Website**: [Coming Soon...](https://the-hot-man-bee.carrd.co/)-->
+🌐 **Website**: [Coming Soon...](https://the-hot-man-bee.carrd.co/) -->
