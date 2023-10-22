@@ -2,7 +2,7 @@
 My Introduction Repository
 ![59333482](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155)
 
-                                                🌟✧✦✧🌟 Introduction 🌟✧✦✧🌟
+                                               🌟✧✦✧🌟 Introduction 🌟✧✦✧🌟
 📜 **Name**: [Hammad Khan aka A_M_Bee]
 
 🏢 **Occupation**: [Mechatronics Engineer, Machine Learning and Artificial Intelligence Developer with Full Stack Dev Knowledge]
@@ -36,6 +36,19 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 - Machine Learning and Artificial Intelligent Bot Developer
 - Energy System Specialist
 
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,ts,mongodb,assembly)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,github,vscode,ai,discord,vue,stackoverflow)](https://skillicons.dev)
+
+**Skills and Framework**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,matlab,bots,nodejs,flask,arduino,autocad,blender,d3,fastapi,postman,raspberrypi,replit,sqlite,sequelize)](https://skillicons.dev)
+
+
 🌱 **Current Endeavors**
 
 - Working on a Solar Energy Project to get maximum energy using Omni Directional Solar Tracker
@@ -48,7 +61,7 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 🌐 **Connect With Me**
 
-- LinkedIn: [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)     ![Static Badge](https://img.shields.io/badge/LinkedIn-hammad--khan--bin--nadir--khan-darkblue)
+- LinkedIn : [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)     ![Static Badge](https://img.shields.io/badge/LinkedIn-hammad--khan--bin--nadir--khan-darkblue)
 - Email: hsekhanofficial@gmail.com    ![Static Badge](https://img.shields.io/badge/Email-hsekhanofficial%40gmail.com-red)
 - Website: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
 - Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)    ![Static Badge](https://img.shields.io/badge/Instagram-the__hot__man__bee%20-magenta)
