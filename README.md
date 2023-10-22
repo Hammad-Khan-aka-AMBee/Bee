@@ -130,3 +130,5 @@ And create a sustainable future
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Khan-aka-Ansar-Malik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Khan-aka-Ansar-Malik&show_icons=true)-->
