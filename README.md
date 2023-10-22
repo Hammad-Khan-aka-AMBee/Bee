@@ -21,35 +21,22 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 </div>
 
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88" width="700" height="250"/>
-</div>
+</div>-->
 
    🌟✧✦✧🌟 Introduction 🌟✧✦✧🌟
                                                
-📜 **Name**: [Hammad Khan aka A_M_Bee]
-
-🏢 **Occupation**: [Mechatronics Engineer, Machine Learning and Artificial Intelligence Developer with Full Stack Dev Knowledge]
-  <img align = "right" src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155" width="200"/>
-
-📆 **Date of Birth**: [15th December]
-
-📍 **Location**: [Karachi, Pakistan]
-
-📧 **Contact**: [hsekhanofficial@gmail.com]
-
-🌐 **Website**: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
 
 
 <!--![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)-->
 
 <!--[![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg)-->
 
-[![Animated hello](intro1.svg)](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/intro1.svg)
+<!--[![Animated hello](Intro.svg)](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/Intro.svg)-->
+<div><img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/Intro.svg" style="width: 50%;" alt="Click to see the source" align="center"></div>
 
-<div style="width: 50%;">
-  <img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/intro.svg" style="width: 100%;" alt="Click to see the source" align="center">
-</div>
+<!--<div style="width: 50%;"><img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/blob/main/intro.svg" style="width: 100%;" alt="Click to see the source" align="center"></div>-->
 
 
 # 📖 **About Me**
@@ -152,3 +139,16 @@ And create a sustainable future
 <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee"/></a>-->
 
 <!--![Snake animation](https://raw.githubusercontent.com/Hammad-Khan-aka-Ansar-Malik/Hammad-Khan-aka-Ansar-Malik/output/github-contribution-grid-snake-dark.svg)-->
+<!--
+📜 **Name**: [Hammad Khan aka A_M_Bee]
+
+🏢 **Occupation**: [Mechatronics Engineer, Machine Learning and Artificial Intelligence Developer with Full Stack Dev Knowledge]
+  <img align = "right" src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155" width="200"/>
+
+📆 **Date of Birth**: [15th December]
+
+📍 **Location**: [Karachi, Pakistan]
+
+📧 **Contact**: [hsekhanofficial@gmail.com]
+
+🌐 **Website**: [Coming Soon...](https://the-hot-man-bee.carrd.co/)-->
