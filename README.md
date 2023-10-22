@@ -17,6 +17,10 @@ My Introduction Repository
 
 📱 **LinkedIn**: [[Your LinkedIn Profile](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)]
 
+![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)
+
+
+
 📖 **About Me**
 
 Hey there! Welcome... This is HK, nice to see you here!
@@ -44,11 +48,13 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 🌐 **Connect With Me**
 
-- LinkedIn: [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)
+- LinkedIn: [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan) [https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/any_text-you_like-blue)
+
 - Email: hsekhanofficial@gmail.com
 - Website: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
 - Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)
-- Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09)
+- Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09) 
+
 - Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)
 
 📣 **Let's Connect**
