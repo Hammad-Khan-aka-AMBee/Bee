@@ -29,6 +29,34 @@ I am looking for a great career start in Energy Systems and Renewable Energy Res
 I already have some experience in Marketing, Sales, Software Development, Data Science, Deep Learning and Machine Learning, App and Web Based Bot Development as well in Computer Science (Networking and Routing, SQL Clustering, Linux and Windows, Cloud Systems, VM-Ware Virtualization). I am fluent in Python, JavaScript, C and C++, Assembly 8086, HTML and CSS. I also have some background knowledge in Economics, Banking and Finance, History, Ethics, Philosophy, Project Management, Risk Management, Money Markets and Supply Chain Management.
 I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my side language i.e Japanese. I was always just an average in Math but it didn't stop me from pursuing my passion in Engineering. One of my weakness is the lack of socializing but I am trying my best to overcome my introversion and turning my greatest skill into Managing my Time.
 
+
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=HTML5&logoColor=blue&label=HTML&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=CSS3&logoColor=blue&label=CSS&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=python&logoColor=blue&label=python&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=javascript&logoColor=blue&label=JS&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=C&logoColor=blue&label=C&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=Structured-Query-Language&logoColor=blue&label=SQL&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=assembly&logoColor=blue&label=assembly&labelColor=white&color=blue)
+
+![Static Badge](https://img.shields.io/badge/-vscode?style=plastic&logo=visualstudiocode&logoColor=blue&label=vscode&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=pandas&logoColor=blue&label=pandas&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=numpy&logoColor=blue&label=numpy&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=keras&logoColor=blue&label=keras&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=github&logoColor=blue&label=github&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=mongodb&logoColor=blue&label=mongodb&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=nodedotjs&logoColor=blue&label=node.js&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=flask&logoColor=blue&label=flask&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=npm&logoColor=blue&label=npm&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=discordjs&logoColor=blue&label=D.Js&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=discordjs&logoColor=blue&label=D.Py&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=vue&logoColor=blue&label=vue&labelColor=white&color=blue)
+
+
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=arduino&logoColor=blue&label=arduino&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=raspberrypi&logoColor=blue&label=raspberrypi&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=ESP32&logoColor=blue&label=ESP32&labelColor=white&color=blue)
+
+
 💡 **Areas of Expertise**
 
 - Mechatronics Engineer
