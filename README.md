@@ -5,7 +5,7 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 <!--![59333482](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155)-->
 
 <div id="header" align="center">
-  <img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155" width="100"/>
+  <img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -30,6 +30,7 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 📜 **Name**: [Hammad Khan aka A_M_Bee]
 
 🏢 **Occupation**: [Mechatronics Engineer, Machine Learning and Artificial Intelligence Developer with Full Stack Dev Knowledge]
+  <img align = "right" src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155" width="200"/>
 
 📆 **Date of Birth**: [15th December]
 
@@ -44,7 +45,7 @@ My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-
 
 
 
-📖 **About Me**
+# 📖 **About Me**
 
 Hey there! Welcome... This is HK, nice to see you here!
 I am some Bold, Decent Guy doing Mechatronics from PAF-KIET University. It has been my passion to work in the field of Automation, Space Research, Robotics, Energy Systems and Artificial Intelligence.
@@ -79,8 +80,11 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 ![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=raspberrypi&logoColor=blue&label=raspberrypi&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/-pandas?style=plastic&logo=ESP32&logoColor=blue&label=ESP32&labelColor=white&color=blue)
 
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-💡 **Areas of Expertise**
+
+
+## 💡 **Areas of Expertise**
 
 - Mechatronics Engineer
 - Discord Bot Developer
@@ -100,17 +104,18 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,matlab,bots,nodejs,flask,arduino,autocad,blender,d3,fastapi,postman,raspberrypi,replit,sqlite,sequelize)](https://skillicons.dev)
 
 
-🌱 **Current Endeavors**
+## 🌱 **Current Endeavors**
 
 - Working on a Solar Energy Project to get maximum energy using Omni Directional Solar Tracker
 - Discord Bot Development to give IoT features and Home Automation using friendly UI
 - Working with PIA as an Internee to learn how Commercial and Military Aircrafts are manufactured and deployed
 
-🌟 **Philosophy**
+## 🌟 **Philosophy**
 
 [Life's Meaning is to Find your Ideal Self and Life's Purpose is to become Your Ideal Self]
 
-🌐 **Connect With Me**
+
+## 🌐 **Connect With Me**
 
 - LinkedIn : [the-hot-man-bee](https://pk.linkedin.com/in/the-hot-man-bee)
 -   ![Static Badge](https://img.shields.io/badge/LinkedIn-the--hot--man--bee-darkblue)
@@ -124,15 +129,19 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 - Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)
 -   ![Static Badge](https://img.shields.io/badge/Discord-the__hot__man__bee%20-lightblue)
 
-📣 **Let's Connect**
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Khan-aka-Ansar-Malik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📣 **Let's Connect**
 
 And create a sustainable future
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Khan-aka-Ansar-Malik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Khan-aka-Ansar-Malik&show_icons=true)-->
 
 <!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee&theme=cobalt&icon=cake&time=true&response=true&border=true"/></a>
 
 <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee"/></a>-->
+
+![Snake animation](https://raw.githubusercontent.com/Hammad-Khan-aka-Ansar-Malik/Hammad-Khan-aka-Ansar-Malik/output/github-contribution-grid-snake-dark.svg)
