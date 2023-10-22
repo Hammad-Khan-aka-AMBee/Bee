@@ -144,4 +144,4 @@ And create a sustainable future
 
 <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=A_M_Bee"/></a>-->
 
-![Snake animation](https://raw.githubusercontent.com/Hammad-Khan-aka-Ansar-Malik/Hammad-Khan-aka-Ansar-Malik/output/github-contribution-grid-snake-dark.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/Hammad-Khan-aka-Ansar-Malik/Hammad-Khan-aka-Ansar-Malik/output/github-contribution-grid-snake-dark.svg)-->
