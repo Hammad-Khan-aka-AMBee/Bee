@@ -1,5 +1,7 @@
 # Im_Bee
-My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-Khan-aka-Ansar-Malik&style=social&color=blue" alt="" align="center"/>
+My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-Khan-aka-Ansar-Malik&style=social&color=blue" alt="" align="center"/> <!-- <img alt="" src="https://img.shields.io/reddit/user-karma/combined/A_Random_Account_4_R"/>-->
+
+
 <!--![59333482](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155)-->
 
 <div id="header" align="center">
