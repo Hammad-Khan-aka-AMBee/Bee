@@ -1,14 +1,26 @@
 # Im_Bee
-My Introduction Repository
+My Introduction Repository <img src="https://komarev.com/ghpvc/?username=Hammad-Khan-aka-Ansar-Malik&style=social&color=blue" alt="" align="center"/>
 <!--![59333482](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155)-->
 
 <div id="header" align="center">
   <img src="https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/db195ad8-92d7-4b09-abc5-792a5a518155" width="100"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
-<img src="https://komarev.com/ghpvc/?username=Hammad-Khan-aka-Ansar-Malik&style=social&color=blue" alt=""/>
+
+
                                                🌟✧✦✧🌟 Introduction 🌟✧✦✧🌟
                                                
 📜 **Name**: [Hammad Khan aka A_M_Bee]
@@ -23,7 +35,6 @@ My Introduction Repository
 
 🌐 **Website**: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
 
-📱 **LinkedIn**: [[Your LinkedIn Profile](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)]
 
 <!--![ezgif-2-29176ef678](https://github.com/Hammad-Khan-aka-Ansar-Malik/Bee/assets/59333482/26c8d3dc-06c2-48a7-9a5d-5a9e2f3ecc88)-->
 
@@ -101,12 +112,17 @@ I can Speak 2 Languages fluently i.e English and Urdu and I'm learning 1 as my s
 
 🌐 **Connect With Me**
 
-- LinkedIn : [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)     ![Static Badge](https://img.shields.io/badge/LinkedIn-hammad--khan--bin--nadir--khan-darkblue)
-- Email: hsekhanofficial@gmail.com    ![Static Badge](https://img.shields.io/badge/Email-hsekhanofficial%40gmail.com-red)
+- LinkedIn : [hammad-khan-bin-nadir-khan](https://pk.linkedin.com/in/hammad-khan-bin-nadir-khan)
+-   ![Static Badge](https://img.shields.io/badge/LinkedIn-hammad--khan--bin--nadir--khan-darkblue)
+- Email: hsekhanofficial@gmail.com
+-   ![Static Badge](https://img.shields.io/badge/Email-hsekhanofficial%40gmail.com-red)
 - Website: [Coming Soon...](https://the-hot-man-bee.carrd.co/)
-- Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)    ![Static Badge](https://img.shields.io/badge/Instagram-the__hot__man__bee%20-magenta)
-- Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09)   ![Static Badge](https://img.shields.io/badge/Twitter/X-A__M__Bee%20-blue)
-- Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)    ![Static Badge](https://img.shields.io/badge/Discord-the__hot__man__bee%20-lightblue)
+- Instagram : [Instagram](https://www.instagram.com/the_hot_man_bee/)
+-  ![Static Badge](https://img.shields.io/badge/Instagram-the__hot__man__bee%20-magenta)
+- Twitter : [Twitter/X](https://twitter.com/A_M_Bee?t=WgsRD24u0HeSJs9D38KkBw&s=09)
+-   ![Static Badge](https://img.shields.io/badge/Twitter/X-A__M__Bee%20-blue)
+- Discord : [the_hot_man_bee](https://discord.gg/wkJnFDjK9a)
+-   ![Static Badge](https://img.shields.io/badge/Discord-the__hot__man__bee%20-lightblue)
 
 📣 **Let's Connect**
 
