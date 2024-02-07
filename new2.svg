@@ -1,0 +1,6 @@
+<svg width="200" height="50">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <rect x="0" y="0" width="200" height="50" fill="blue" />
+    <text x="50" y="25" font-size="20" fill="white">Funny Cats!</text>
+  </a>
+</svg>
