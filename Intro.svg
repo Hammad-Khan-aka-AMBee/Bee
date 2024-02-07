@@ -67,7 +67,15 @@
       <div class="container">
         
         <h1> the_hot_man_bee <div class="hi">👋</div> </h1>
-        
+      
+        <svg xmlns="http://www.w3.org/2000/svg" width="200" height="100">
+  <rect width="100" height="50" fill="lightblue" />
+  <!-- Link only the text element -->
+  <a href="https://example.com" target="_blank">
+    <text x="20%" y="20%" text-anchor="middle" dy=".3em" fill="white">Click me!</text>
+  </a>
+</svg>
+  
         
   <p>       
  📜 Name: [Hammad Khan aka AMBee]
