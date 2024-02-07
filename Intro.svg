@@ -69,10 +69,10 @@
         <h1> the_hot_man_bee <div class="hi">👋</div> </h1>
       
        
-  <!-- Link only the text element -->
+  <!-- Link only the text element 
   <a href="https://example.com" target="_blank">
     <text x="20%" y="20%" text-anchor="middle" dy=".3em" fill="white">Click me!</text>
-  </a>
+  </a>-->
 
   
         
